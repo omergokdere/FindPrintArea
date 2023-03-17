@@ -1,0 +1,5 @@
+C:\Users\ORHUN\Desktop\publish\FindPrintArea.exe
+C:\Users\ORHUN\Desktop\publish\FindPrintArea.dll
+C:\Users\ORHUN\Desktop\publish\FindPrintArea.deps.json
+C:\Users\ORHUN\Desktop\publish\FindPrintArea.runtimeconfig.json
+C:\Users\ORHUN\Desktop\publish\FindPrintArea.pdb

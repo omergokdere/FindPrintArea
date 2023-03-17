@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6L9Nle8QTBM8Le8lU9Q/1R2zvEXqsGazpTKBv0LLBJEfb9GYKD8NPOwsJN/HBp0YLFXh8dTkU0dezJpgJgTzxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlkng\\Desktop\\FindPrintArea\\FindPrintArea.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlkng\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\vlkng\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

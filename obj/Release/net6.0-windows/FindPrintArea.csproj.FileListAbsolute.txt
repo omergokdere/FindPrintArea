@@ -1,0 +1,17 @@
+C:\Workspace\Teesty\FindPrintArea\bin\Release\net6.0-windows\FindPrintArea.exe
+C:\Workspace\Teesty\FindPrintArea\bin\Release\net6.0-windows\FindPrintArea.deps.json
+C:\Workspace\Teesty\FindPrintArea\bin\Release\net6.0-windows\FindPrintArea.runtimeconfig.json
+C:\Workspace\Teesty\FindPrintArea\bin\Release\net6.0-windows\FindPrintArea.dll
+C:\Workspace\Teesty\FindPrintArea\bin\Release\net6.0-windows\FindPrintArea.pdb
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.csproj.AssemblyReference.cache
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.Form1.resources
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.csproj.GenerateResource.cache
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.AssemblyInfoInputs.cache
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.AssemblyInfo.cs
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.csproj.CoreCompileInputs.cache
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.dll
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\refint\FindPrintArea.dll
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.pdb
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\FindPrintArea.genruntimeconfig.cache
+C:\Workspace\Teesty\FindPrintArea\obj\Release\net6.0-windows\ref\FindPrintArea.dll
